@@ -2,7 +2,8 @@
 
 ## About me
 
-I'm a sophomore at Indraprastha Institute of Information Technology, Delhi, pursuing B.Tech. in Computer Science and Artificial Intelligence. I’m interested in Machine Learning, Python, and especially programming that requires Math, and requires me to study Math XD. I'm a nerd about science and math, and it shows in my projects. I’m well-versed in Python and C, and am currently learning C++ and Java.
+I'm a sophomore at Indraprastha Institute of Information Technology, Delhi, pursuing B.Tech. in Computer Science and Artificial Intelligence. I’m interested in Machine Learning, Python, and especially programming that requires Math, and requires me to study Math! I'm slowly diving into Interaction Design as well! \
+I'm a nerd about science and math, and it shows in my projects. I’m well-versed in Python and C, and am currently learning C++ and Java.
 
 *Fun fact: I'm a very social person, and would love to have a chat about tech, music, sci-fi, and/or philosphy.*
 
@@ -13,6 +14,7 @@ I started learning Python(3.x) in 2019 and became highly profecient in it soon. 
 - Probability & Statistics
 - Data Structures & Algorithms
 - Computer Organization
+- Human-Computer Interaction
 
 I've also contributed to the official Python Package Index (PyPI) through some small-scale projects. \
 I'm currently serving as the Head of Communications at the Student Branch of IEEE-IIITD.
