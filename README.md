@@ -1,6 +1,6 @@
 ## Hi there, I'm Divyajeet Singh
 
-- Sophomore at Indraprastha Institute of Information Technology, Delhi, pursuing B.Tech. in CSAI
+- Sophomore at [Indraprastha Institute of Information Technology, Delhi](https://github.com/IIIT-Delhi), pursuing B.Tech. in CSAI
 - Interested in Machine Learning, Python, and especially programming that requires Math
 - Reach out to me: *[Link-Tree](https://linktr.ee/divyajeettt)*
 - Fun fact: I'm a math nerd who plays the guitar and loves philosophy
