@@ -5,7 +5,7 @@
 - Reach out to me: *[Link-Tree](https://linktr.ee/divyajeettt)*
 - Fun fact: I'm a math nerd who plays the guitar and loves philosophy
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=divyajeettt&theme=dark&date_format=j%20M%5B%20Y%5D" width="400px"> <img src="https://github-readme-stats.vercel.app/api?username=divyajeettt&show_icons=true&theme=dark&title_color=FFA701" width="400px">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=divyajeettt&theme=tokyonight&date_format=j%20M%5B%20Y%5D&count_private=true" width="400px"> <img src="https://github-readme-stats.vercel.app/api?username=divyajeettt&theme=tokyonight&show_icons=true&&count_private=true" width="400px">
 
 ## Toolbox
 
