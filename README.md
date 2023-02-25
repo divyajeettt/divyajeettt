@@ -6,7 +6,7 @@
 - Reach out to me: *[Link-Tree](https://linktr.ee/divyajeettt)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyajeettt&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" width="400px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyajeettt&theme=tokyonight&layout=compact&langs_count=8&card_width=400&count_private=true" width="400px"> <img src="https://github-readme-streak-stats.herokuapp.com?user=divyajeettt&theme=tokyonight&date_format=j%20M%5B%20Y%5D&count_private=true" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyajeettt&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" width="400px"> <img src="https://github-readme-streak-stats.herokuapp.com?user=divyajeettt&theme=tokyonight&date_format=j%20M%5B%20Y%5D&count_private=true" width="425px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyajeettt&theme=tokyonight&layout=compact&langs_count=8&card_width=400&count_private=true" width="400px"> 
  </p>
 
 ## Toolbox
