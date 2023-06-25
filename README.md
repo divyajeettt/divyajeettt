@@ -1,7 +1,7 @@
 ## Hi there, I'm Divyajeet Singh
 
-- Sophomore at [Indraprastha Institute of Information Technology, Delhi](https://github.com/IIIT-Delhi), pursuing B.Tech. in CSAI
-- Interested in Theories of Machine Learning and Deep Learning, tech, and programming that requires Math
+- Junior at [Indraprastha Institute of Information Technology, Delhi](https://github.com/IIIT-Delhi), pursuing B.Tech. in CSAI
+- Interested in Theories of Machine Learning and Deep Learning, tech, and the intersection of programming and math
 - Currently exploring Machine Learning, Randomized Algorithms, and the Wolfram Language
 - Reach out to me: *[Link-Tree](https://linktr.ee/divyajeettt)*
 
