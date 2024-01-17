@@ -2,7 +2,7 @@
 
 - Junior at [Indraprastha Institute of Information Technology, Delhi](https://github.com/IIIT-Delhi), pursuing B.Tech. in CSAI
 - Interested in Theories of Machine Learning and Deep Learning, tech, and the intersection of programming and math
-- Currently exploring Machine Learning, Online and Randomized Algorithms, and Reinforcement Learning
+- Currently exploring Deep Learning, Randomized Algorithms, Computer Vision, and Natural Language Processing
 - Reach out to me: *[Link-Tree](https://linktr.ee/divyajeettt)*
 
 <p align="center">
